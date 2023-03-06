@@ -1,0 +1,15 @@
+Hotul de carti,Markus Zusak,roman,2005
+Zuleiha deschide ochii,Guzel Yakhina,fictiune istorica,2015
+Quo Vadis,Henryk Sienkiewicz,fictiune istorica,1909
+Moara cu noroc,Ioan Slavici,nuvela,1881
+Laur,Evgheni Vodolazkin,fictiune istorica,2012
+Solaris,Stanislaw Lem,SF,1961
+Soarele gol,Isaac Asimov,SF,1956
+Alchimistul,Paulo Coelho,roman,1988
+Jocul lui Ender,Orson Scott Card,SF,1985
+Crima si pedeapsa,Feodor Dostoievski,roman,1866
+Numele trandafirului,Umberto Eco,roman,1980
+Rosu si negru,Stendhal,roman,1830
+Razboi si pace,Lev Tolstoi,roman,1869
+Sa ucizi o pasare cantatoare,Harper Lee,roman,1960
+Flori pentru Algernon,Daniel Keyes,SF,1959
